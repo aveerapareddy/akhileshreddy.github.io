@@ -1,5 +1,5 @@
 ### AKHILESH VEERAPAREDDY
-Portfolio to showcase professional and personal information - [vk46.github.io](https://vk46.github.io/)
+Portfolio to showcase professional and personal information - [akhileshveerapareddy.github.io](https://akhileshveerapareddy.github.io/)
 
 ### Built With
 
