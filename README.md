@@ -1,5 +1,5 @@
 ### AKHILESH VEERAPAREDDY
-Portfolio to showcase professional and personal information - [Akhilesh Reddy](https://akhileshreddy.github.io/)
+Portfolio to showcase professional and personal information - [Akhilesh Reddy](https://akhileshreddy.github.io)
 
 ### Built With
 
